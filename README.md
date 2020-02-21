@@ -5,7 +5,7 @@ My PowerShell script collection. Backup and sharing.
 
 ## Highlights
 
-[Init-Ramdisk.ps1](Init-Ramdisk.ps1) - Use imdisk without third-party tools
+[Init-RamDisk.ps1](Init-RamDisk.ps1) - Use imdisk without third-party tools
 
 [Install-RdpCert.ps1](Install-RdpCert.ps1) - Saves the hassle when updating my RDP certificate (by LE) every three months
 
